@@ -24,7 +24,7 @@ summarylength = 25
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Напиши мне"
     url     = "contact"
     weight  = 5
 
@@ -33,8 +33,8 @@ summarylength = 25
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
+  description = "Алина | Frontend разработчик | Spark AR creator"
+  
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
@@ -42,24 +42,23 @@ summarylength = 25
 
   # Contact Form
   [params.contactForm]
-    placeholder_first_name        = "First Name"
-    placeholder_last_name         = "Last Name"
+    placeholder_first_name        = "Имя"
     placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
-    send_message                  = "Send Message"
+    placeholder_project_type      = "Проект"
+    placeholder_about_the_project = "Детали"
+    send_message                  = "Отправить"
 
     [[params.contactForm.projectType]]
       value = "gd"
-      title  = "Graphics Design"
+      title  = "Вебсайт"
     [[params.contactForm.projectType]]
       value = "wd"
-      title  = "Web Design"
+      title  = "Фильтр инстаграмм"
   
   # Navbar Action Button
   [params.navAction]
     status  = true
-    name    = "Get in touch"
+    name    = "Связаться"
     url     = "contact"
   
 
@@ -67,65 +66,62 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
-    primary_button        = "See Our Works"
+    heading               = "упакую твой бренд в красивую обертку"
+    tagline               = "Я Frontend разработчик и Spark AR creator"
+    primary_button        = "Смотри мои работы"
     primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
+    secondary_button      = "Напиши мне"
     secondary_button_url  = "contact"
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
+    title     = "мои работы"
     subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
 
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Submit Query"
+    title               = "Давай сотрудничать"
+    primary_button      = "Напиши мне"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
+    secondary_button    = "Дай подумать"
     secondary_button_url = "portfolio"
 
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
-      title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      title   = "Информация"
+      phone   = "+31630792944"
+      email   = "alinadakhno60@gmail.com"
       # Footer Sitemap
       [params.footer.sitemap]
-        title   = "Sitemap"
+        title   = "Навигация по сайту"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "Обо мне"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "Портфолио"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
-          name = "Blog"
+          name = "Блог"
           url  = "blog"
         [[params.footer.sitemap.link]]
-          name = "Contact"
+          name = "Связаться со мной"
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
-        title   = "Social Media"
+        title   = "Я в соцсетях"
         [[params.footer.social.link]]
-          name = "Medium"
+          name = "linkedin"
           url  = "#"
         [[params.footer.social.link]]
-          name = "Behance"
+          name = "instagram"
           url  = "#"
         [[params.footer.social.link]]
-          name = "Dribbble"
+          name = "telegram"
           url  = "#"
-        [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "#"
+        
       # Footer Service
-      [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+      # [params.footer.service]
+      #   title       = "We help brands:"
+      #   description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
