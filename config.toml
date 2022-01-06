@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://instagram-lovelyfox-code.vercel.app/"
 languageCode  = "en-us"
 title         = "Alina | creator"
 theme         = "roxo"
