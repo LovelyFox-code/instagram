@@ -6,8 +6,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgb(255,112,99);
-  background: linear-gradient(90deg, rgba(255,112,99,1) 36%, rgba(136,178,75,1) 70%);
   @include desktop{
     height: auto;
     padding: 200px 0;
@@ -16,7 +14,7 @@
     padding: 150px 0;
   }
   &-content{
-    h1{
+    h1, h6{
       color: white;
       margin-bottom: 75px;
       @include desktop-lg{

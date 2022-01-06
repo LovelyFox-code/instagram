@@ -1,10 +1,11 @@
 ---
-title: "SEAMLESS WATCH"
-date: 2019-12-23T15:55:44+06:00
+title: "Доставка еды"
+date: 2020-12-23T15:56:43+06:00
 type: portfolio
-image: "images/projects/project-thumb-three.jpg"
-category: ["REBRAND"]
+image: "images/projects/project-thumb-two.jpg"
+category: ["ПРОТОТИП"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+Alink: "https://responsive-web-page-topaz.vercel.app/"
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.

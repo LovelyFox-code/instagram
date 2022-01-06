@@ -1,36 +1,28 @@
 ---
-title: "Design Inspiration: The Best Projects From December"
-date: 2019-12-24T13:45:06+06:00
+title: "Зачем нужен сайт? "
+date: 2021-12-01T13:45:06+06:00
 image: images/blog/blog-post-04.jpg
 feature_image: images/blog/blog-details-image.jpg
-author: Alexender Schoitiz
+author: Alina
 ---
-### Black Lines brand identity, by & Smith
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Зачем нужен сайт? 
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+Сейчас всё и все в соцсетях😁  
+Да, но☝🏼  
+Во-первых😎, наличие собственного сайта повышает имидж компании в глазах потенциальных клиентов.
+Если его нет, то скорее всего, к компании будут относится настороженно или несерьёзно.
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+Во-вторых 👩🏼‍💻, сайт-это виртуальный офис, работающий круглосуточно и без выходных. Там можно найти любую интересующую информацию. Это существенно экономит вам время-просто поделись ссылочкой, где всё подробно написано.
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+В-третьих🕵🏼, даже если будут искать не именно вас, а компанию, которая предоставляет аналогичные услуги, то могут попасть и к вам по определенным поисковым запросам. А это всегда хорошо. Статистика говорит, что как минимум 30% клиентов узнают о вашей компании именно через сайт.
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
+Но не стоит забывать о полезности содержимого на сайте 🥰 и удобства в пользовании. Ведь сайт должен быть интересен не только вам и вашим друзьям, но и многим людям😁
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
-
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
+Перед созданием сайта задайте себе вопросы:
+* кому может он быть интересным;
+* зачем его нужно создавать;
+* почему он должен стать успешным.
 
 
-> Paul Rand, graphic designer
-
+Если нужна помощь или совет-обращайтесь😉

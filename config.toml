@@ -65,7 +65,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
+    background_image      = "images/backgrounds/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpeg"
     heading               = "упакую твой бренд в красивую обертку"
     tagline               = "Я Frontend разработчик и Spark AR creator"
     primary_button        = "Смотри мои работы"
@@ -76,7 +76,7 @@ summarylength = 25
   [params.portfolio]
     enable    = true
     title     = "мои работы"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    subtitle  = "Каждый проект наполняю любовью"
 
   [params.call_to_action]
     enable              = true

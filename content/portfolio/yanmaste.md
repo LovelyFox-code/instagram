@@ -1,10 +1,11 @@
 ---
-title: "KIO TAPE"
-date: 2019-12-23T15:44:46+06:00
+title: "Yanamaste.com"
+date: 2020-12-23T15:58:10+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
-category: ["PRODUCT LABEL"]
+image: "images/projects/project-thumb-one.jpg"
+category: ["HUGO"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+Alink: "https://yanamaste.com/"
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.

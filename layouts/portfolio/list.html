@@ -12,7 +12,7 @@
       </div>
       <div class="col-lg-4">
         <a href="#project" class="site-project-header-action scroll-to">
-          <span>Scroll Down</span>
+          <span></span>
           <img src="{{ "images/arrow-down.svg" | absURL }}" alt="arrow-down">
         </a>
       </div>
@@ -23,8 +23,8 @@
 <section class="site-project" id="project">
   <div class="container">
     <div class="row">
-      {{ range (.Paginator 4).Pages }}
-      <div class="col-lg-6 col-md-10 mx-auto">
+      {{ range (.Paginator 5).Pages }}
+      <div class="col-lg-4 col-md-10 mx-auto">
         <div class="site-project-item">
           <div class="site-project-item-thumb">
             <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
@@ -32,7 +32,7 @@
           <div class="site-project-item-content">
             <span>{{ delimit .Params.category ", " }}</span>
             <h3>{{ .Title }}</h3>
-            <a href="{{ .Permalink }}" class="read-more">view project</a>
+            <a href="{{ .Params.Alink}}" class="read-more">перейти к проекту</a>
           </div>
         </div>
       </div>
