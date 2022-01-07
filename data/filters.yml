@@ -1,0 +1,56 @@
+enable  : true
+title   : Фильтры для инстаграмм.
+filter  :
+  - image       : images/filters/allPost-9.jpg
+    name        : Дата и время
+    designation : 3d
+    telegram    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/filters/allPost-2.jpg
+    name        : Тату
+    designation : 3d
+    telegram    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/filters/allPost-3.jpg
+    name        : Рисунок на лице
+    designation : 3d
+    telegram    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/filters/allPost-4.jpg
+    name        : 3D обьекты
+    designation : 3d
+    telegram    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/filters/allPost-8.jpg
+    name        : Гарри Поттер
+    designation : 3d
+    telegram    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/filters/allPost-5.jpg
+    name        : 3D обьекты, дата
+    designation : 3d
+    telegram    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/filters/allPost-1.jpg
+    name        : Shader
+    designation : 3d
+    telegram    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/filters/allPost-6.jpg
+    name        : Интерактив
+    designation : 3d
+    telegram    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/filters/allPost-7.jpg
+    name        : Макияж, цвет волос
+    designation : 3d
+    telegram    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/

@@ -24,9 +24,13 @@ summarylength = 25
     url     = "blog"
     weight  = 4
   [[menu.nav]]
+    name    = "Фильтры"
+    url     = "filters"
+    weight  = 5
+  [[menu.nav]]
     name    = "Напиши мне"
     url     = "contact"
-    weight  = 5
+    weight  = 6
 
 # Site Params
 [params]
@@ -77,6 +81,11 @@ summarylength = 25
     enable    = true
     title     = "мои работы"
     subtitle  = "Каждый проект наполняю любовью"
+
+  [params.filters]
+    enable    = true
+    title     = "ФИЛЬТРЫ ДЛЯ ИНСТАГРАММА"
+    subtitle  = "Cмотри примеры, вдохновляйся. Создавай свои собственные вместе со мной!"
 
   [params.call_to_action]
     enable              = true
