@@ -42,7 +42,7 @@ summarylength = 25
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  formspreeFormUrl  = "https://formspree.io/f/xqknanok"
 
   # Contact Form
   [params.contactForm]
@@ -121,14 +121,17 @@ summarylength = 25
       [params.footer.social]
         title   = "Я в соцсетях"
         [[params.footer.social.link]]
-          name = "linkedin"
-          url  = "#"
+          name = "Linkedin"
+          url  = "https://www.linkedin.com/in/alina-dakhno/"
         [[params.footer.social.link]]
-          name = "instagram"
-          url  = "#"
+          name = "Instagram"
+          url  = "https://www.instagram.com/alina_dakhno/"
         [[params.footer.social.link]]
-          name = "telegram"
-          url  = "#"
+          name = "Telegram"
+          url  = "https://t.me//alina_dakhno"
+        [[params.footer.social.link]]
+          name = "Spark AR"
+          url  = "https://www.facebook.com/sparkarhub/portfolios/ig/alina_dakhno/"
         
       # Footer Service
       # [params.footer.service]
