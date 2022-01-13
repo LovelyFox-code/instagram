@@ -5,5 +5,5 @@ type: APP
 image: "images/projects/project-thumb-seven.png"
 category: ["React, weather API"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
-Alink: "https://figma-to-react-ten.vercel.app/"
+Alink: "https://weather-app-react-lovelyfox-code.vercel.app/"
 ---
