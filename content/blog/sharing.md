@@ -1,7 +1,7 @@
 ---
 title: "Почему важно делиться"
 date: 2021-12-24T13:36:06+06:00
-image: images/blog/blog-post-02.jpg
+image: images/blog/blog-post-02.jpeg
 feature_image: images/blog/blog-details-image.jpeg
 author: Alina
 ---
