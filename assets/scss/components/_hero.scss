@@ -6,6 +6,23 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  background: linear-gradient(238deg,#d855be,#ff7063,#b529cd,#f1a748);
+  background-size: 300% 300%;
+  animation: gradient-animation 16s ease infinite;;
+
+
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
   @include desktop{
     height: auto;
     padding: 200px 0;
